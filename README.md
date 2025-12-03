@@ -20,5 +20,5 @@ build/copa_app
 ```
 
 ## Screenshot
-![COPA Screenshot](./assets/screenshot.png)
+![COPA Screenshot](./assets/screenshot.png)<br>
 (on Linux Mint 22, theme: [WhiteSur-Dark-solid](https://cinnamon-spices.linuxmint.com/themes/view/WhiteSur-Dark-solid))
