@@ -252,7 +252,7 @@ void MainFrame::CreateLiveClipboardBox(std::string text)
     auto* live_clipboard = new wxTextCtrl(
         m_scroll_panel, wxID_ANY, 
         text, wxDefaultPosition, 
-        wxSize(450, 50),wxTE_MULTILINE);
+        wxSize(450, 50),wxTE_MULTILINE | wxTE_READONLY);
     live_clipboard->SetMinSize(
         wxSize(-1, CalculateTextHeight(live_clipboard))
     );
