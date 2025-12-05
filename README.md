@@ -1,5 +1,4 @@
 # COPA *(COPA Offline Paste Attic)*
-# ![COPA Screenshot](./assets/copa.png)<br>
 A cross-platform GUI application to log clipboard history, made using [wxWidgets](https://wxwidgets.org/) (tested on Linux Mint 22 LTS).
 
 ## Building
